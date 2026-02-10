@@ -8,7 +8,7 @@
 local whitelist = {
     "PowerOFLukad", -- HIER deinen Namen reinschreiben
     "Khohoi6",
-	"Pepe_R2010",
+	"user",
 	"Khohoi6",
 	"Khohoi6",
 	"Khohoi6",
